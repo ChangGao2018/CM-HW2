@@ -1,7 +1,7 @@
 # CM-HW2
 ---
 title: "Simple neural networks"
-author: "Your name(s)"
+author: "Chang Gao"
 date: "Date of submission"
 output: 
   html_document: 
